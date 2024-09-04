@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="32ece8b3839cd61097e5e290ceaad3b9" extends="task" label="Pull Request" max_length="40" name="x_1522628_poc_gi_0_pull_request" type="collection">
+        <element label="user details" max_length="32" name="user_details" reference="sys_user" type="reference"/>
+    </element>
+</database>
